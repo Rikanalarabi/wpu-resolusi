@@ -3,4 +3,4 @@ wpu-resolusi
 - membuat plat form ci4 moel
 - membuat insert data pada ci4
 - menghapus data mengunakan id
--edit data melalui id
+- menguplod gambar
