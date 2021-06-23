@@ -1,0 +1,3 @@
+wpu-resolusi
+-kosistem mempelajari Ci4
+- membuat plat form ci4 moel
