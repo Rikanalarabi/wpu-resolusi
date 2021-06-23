@@ -1,7 +1,7 @@
 rencana program kedepan
 - mempelajari kembali java
   - memahami dasar di java
-  - membuat conectio ke database
   - menampilkan data dari data base
 - memahami framwork di java
   -mempelajari css di java
+- mempelajari data dasar
