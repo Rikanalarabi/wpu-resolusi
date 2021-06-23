@@ -4,3 +4,4 @@ rencana program kedepan
   - membuat conectio ke database
   - menampilkan data dari data base
 - memahami framwork di java
+  -mempelajari css di java
